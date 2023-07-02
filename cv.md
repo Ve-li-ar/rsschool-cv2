@@ -54,5 +54,5 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
 ---
 
 ### Languages:
-- English \-Intermediate
+- English \-A2
 - Russian \- Native
